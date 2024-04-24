@@ -20,7 +20,7 @@ The focus is mostly on feedback for written language errors made by English lear
 * [Ellis (2009): A typology of written corrective feedback types](https://doi.org/10.1093/elt/ccn023)
 * [Ene and Upton (2014): Learner uptake of teacher electronic feedback in ESL composition](https://doi.org/10.1016/j.system.2014.07.011)
 * [Evans (2013): Making Sense of Assessment Feedback in Higher Education](https://doi.org/10.3102/0034654312474350)
-* [Ferria (1999): The case for grammar correction in L2 writing classes: A response to truscott (1996)](https://doi.org/10.1016/S1060-3743(99)80110-6)
+* [Ferris (1999): The case for grammar correction in L2 writing classes: A response to truscott (1996)](https://doi.org/10.1016/S1060-3743(99)80110-6)
 * [Finn et al. (2018): Learning more from feedback: Elaborating feedback with examples enhances concept learning](https://doi.org/10.1016/j.learninstruc.2017.08.007)
 * [Goldin et al. (2017): New Directions in Formative Feedback in Interactive Learning Environments](https://doi.org/10.1007/s40593-016-0135-7)
 * [Hattie and Timperley (2007): The Power of Feedback](https://doi.org/10.3102/003465430298487)
