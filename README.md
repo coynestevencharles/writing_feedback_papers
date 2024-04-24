@@ -28,6 +28,7 @@ The focus is mostly on feedback for written language errors made by English lear
 * [Kulhavy and Stock (1989): Feedback in written instruction: The place of response certitude](https://doi.org/10.1007/BF01320096)
 * [Lee (2013): Research into practice: Written corrective feedback](https://doi.org/10.1017/S0261444812000390)
 * [Lyster and Randa (1997): Corrective Feedback and Learner Uptake](https://doi.org/10.1017/S0272263197001034)
+* [Mason and Bruning (2001): Providing Feedback in Computer-based Instruction: What the Research Tells Us](https://www.researchgate.net/publication/247291218_Providing_Feedback_in_Computer-based_Instruction_What_the_Research_Tells_Us)
 * [Narciss (2013): Designing and evaluating tutoring Feedback Strategies for Digital Learning](https://eric.ed.gov/?id=EJ1013726)
 * [Narciss et al. (2014): Exploring feedback and student characteristics relevant for personalizing feedback strategies](https://doi.org/10.1016/j.compedu.2013.09.011)
 * [Nichol and Macfarlane‐Dick (2006): Formative assessment and self‐regulated learning: a model and seven principles of good feedback practice](https://doi.org/10.1080/03075070600572090)
