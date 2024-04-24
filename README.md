@@ -25,6 +25,7 @@ The focus is mostly on feedback for written language errors made by English lear
 * [Goldin et al. (2017): New Directions in Formative Feedback in Interactive Learning Environments](https://doi.org/10.1007/s40593-016-0135-7)
 * [Hattie and Timperley (2007): The Power of Feedback](https://doi.org/10.3102/003465430298487)
 * [Kim and Bowles (2019): How Deeply Do Second Language Learners Process Written Corrective Feedback? Insights Gained From Think-Alouds](https://doi.org/10.1002/tesq.522)
+* [Kulhavy and Stock (1989): Feedback in written instruction: The place of response certitude](https://doi.org/10.1007/BF01320096)
 * [Lee (2013): Research into practice: Written corrective feedback](https://doi.org/10.1017/S0261444812000390)
 * [Lyster and Randa (1997): Corrective Feedback and Learner Uptake](https://doi.org/10.1017/S0272263197001034)
 * [Narciss (2013): Designing and evaluating tutoring Feedback Strategies for Digital Learning](https://eric.ed.gov/?id=EJ1013726)
